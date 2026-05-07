@@ -230,9 +230,8 @@ The following columns were created during the analysis phase:
 
 ## 👤 Author
 John Butch Gromontil
-May 3, 2026
 **Junior Data Analyst**
-SupplyChain Analytics Co.
+SupplyChain Inventory Analysis
 May 2026
 
 > This project was completed as part of a guided inventory analysis learning session covering Excel pivot table analysis through to Power BI dashboard development.
