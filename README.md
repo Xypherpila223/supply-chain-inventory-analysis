@@ -229,7 +229,8 @@ The following columns were created during the analysis phase:
 ---
 
 ## 👤 Author
-
+John Butch Gromontil
+May 3, 2026
 **Junior Data Analyst**
 SupplyChain Analytics Co.
 May 2026
